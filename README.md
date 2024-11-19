@@ -51,3 +51,4 @@ A big thank you to the Child Mind Institute and the SNF Global Center for provid
 At Sleepy Science, we’re not just predicting sleep; we’re laying the foundation for a future where personalized insights lead to healthier and happier lives. Sweet dreams, and happy coding! 🌙✨
 
 Made with ❤️ and a dash of sleep deprivation!
+![alt text](<Screenshot 2024-11-19 120916.png>)
